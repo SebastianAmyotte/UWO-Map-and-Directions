@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "873606562188",
+    "project_id": "cs344-group-project",
+    "storage_bucket": "cs344-group-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873606562188:android:2c9c1a2ffdc137ddf296a9",
+        "android_client_info": {
+          "package_name": "com.sebastian.uwo_map"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873606562188-d3s9ffjm24g7g556mreavj87fe5tksif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "# API KEY HERE #"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873606562188-d3s9ffjm24g7g556mreavj87fe5tksif.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
