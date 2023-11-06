@@ -2,9 +2,9 @@
 
 Free Google Play download: https://play.google.com/store/apps/details?id=com.sebastian.uwo_map
 
-A Flutter application that utilized the Google Maps API to provide walking directions and a map of campus.
+A Flutter application that utilizes the Google Maps API to provide walking directions and a map of campus.
 
-Provides information about parking, buildings, contact information, and more
+Provides information about parking, buildings, contact information, and more.
 
 Requires a Google Maps API key before compilation, you can get one here: https://developers.google.com/maps
 
@@ -16,4 +16,4 @@ Requires a Google Maps API key before compilation, you can get one here: https:/
 
 <img src="https://github.com/SebastianAmyotte/UWO-Map-and-Directions/assets/71189225/e46a3cf6-7550-41d3-b302-fd718d0b4453" width="250">
 
-This application was developed with permission from the University of Oshkosh, Wisconsin as a non-profit student project
+This application was uploaded to the Google Play store with permission from the University of Oshkosh, Wisconsin as a non-profit student project.
