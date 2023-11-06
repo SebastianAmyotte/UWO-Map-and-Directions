@@ -1,16 +1,9 @@
-# gui_only
+# UWO Map and Directions
 
-A new Flutter project.
+Free Google Play download: https://play.google.com/store/apps/details?id=com.sebastian.uwo_map
 
-## Getting Started
+A Flutter application that utilized the Google Maps API to provide walking directions and a map of campus.
 
-This project is a starting point for a Flutter application.
+Provides information about parking, buildings, contact information, and more
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Requires a Google Maps API key before compilation, you can get one here: https://developers.google.com/maps
