@@ -4,6 +4,8 @@ Free Google Play download: https://play.google.com/store/apps/details?id=com.seb
 
 A Flutter application that utilizes the Google Maps API to provide walking directions and a map of campus.
 
+This application was developed for educational purposes, based on learning the Flutter platform, the Dart programming language, as well as the unique challenges to multi-platform development
+
 Provides information about parking, buildings, contact information, and more.
 
 Requires a Google Maps API key before compilation, you can get one here: https://developers.google.com/maps
