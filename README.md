@@ -10,10 +10,10 @@ Requires a Google Maps API key before compilation, you can get one here: https:/
 
 # Application preview
 
-<img src="[https://your-image-url.type](https://github.com/SebastianAmyotte/UWO-Map-and-Directions/assets/71189225/ff382d9e-4bdf-4110-b884-74e66d250c98)" width="300">
+<img src="https://github.com/SebastianAmyotte/UWO-Map-and-Directions/assets/71189225/ff382d9e-4bdf-4110-b884-74e66d250c98" width="300">
 
-<img src="[https://your-image-url.type](https://github.com/SebastianAmyotte/UWO-Map-and-Directions/assets/71189225/d2530792-9944-42d0-b217-5e1fc83120fc)" width="300">
+<img src="https://github.com/SebastianAmyotte/UWO-Map-and-Directions/assets/71189225/d2530792-9944-42d0-b217-5e1fc83120fc" width="300">
 
-<img src="[https://your-image-url.type](https://github.com/SebastianAmyotte/UWO-Map-and-Directions/assets/71189225/e46a3cf6-7550-41d3-b302-fd718d0b4453)" width="300">
+<img src="https://github.com/SebastianAmyotte/UWO-Map-and-Directions/assets/71189225/e46a3cf6-7550-41d3-b302-fd718d0b4453" width="300">
 
 This application was developed with permission from the University of Oshkosh, Wisconsin as a non-profit student project
